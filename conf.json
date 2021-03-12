@@ -1,0 +1,24 @@
+{
+  "use_ip_cam": false,
+  "ip_cam_addr": "rtsp://<ip>/live0.264",
+  "create_image": true,
+  "min_upload_seconds": 5,
+  "min_motion_frames": 12,
+  "camera_warmup_time": 2.5,
+  "delta_thresh": 5,
+  "resolution": [720, 1280],
+  "fps": 16,
+  "min_area": 500,
+  "userDir": "C:/MyTensor1/models/research/object_detection/",
+  "resizeWidth": 1280,
+  "resizeHeight": 720,
+  
+
+  "nonMotionTimer": 20,
+  "show_video": true,
+  "show_video_detection":true,
+  "EntranceLine":144,
+  "ExitLine":576
+
+
+}

@@ -1,0 +1,20 @@
+item {
+  id: 1
+  name: 'kurkure'
+}
+
+item {
+  id: 2
+  name: 'colddrink'
+}
+
+item {
+  id: 3
+  name: 'goodday'
+}
+
+item {
+  id: 4
+  name: 'biscuit'
+}
+

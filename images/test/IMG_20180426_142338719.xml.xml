@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_20180426_142338719.jpg</filename>
+	<path>C:/MyTensor1/models/research/object_detection/images/test/IMG_20180426_142338719.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>451</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>biscuit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>150</ymin>
+			<xmax>439</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

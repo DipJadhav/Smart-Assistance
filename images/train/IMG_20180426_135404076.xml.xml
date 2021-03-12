@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>IMG_20180426_135404076.jpg</filename>
+	<path>F:/tensor_directory/resized/IMG_20180426_135404076.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>338</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kurkure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>194</ymin>
+			<xmax>285</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

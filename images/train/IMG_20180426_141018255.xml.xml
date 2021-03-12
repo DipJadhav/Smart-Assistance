@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20180426_141018255.jpg</filename>
+	<path>C:/MyTensor1/models/research/object_detection/images/train/IMG_20180426_141018255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>451</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>colddrink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>256</ymin>
+			<xmax>456</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
